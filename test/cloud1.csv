@@ -1,0 +1,5 @@
+CLOUD_NAME,Number,TypeName
+aws                           ,1,EC2                           
+aws                           ,2,RDS                           
+aws                           ,3,API
+azure,4,VM

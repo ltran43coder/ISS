@@ -1,0 +1,5 @@
+id,cloud_name,Number,Type
+1,aws                           ,1,EC2                         
+tslam,aws                           ,3,API
+4,azure,4,VM
+5,aws,3,lamsaoday
